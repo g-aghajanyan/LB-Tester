@@ -7,7 +7,7 @@ In the Future It can also be used to generate load.
 docker run ...
 ```
 
-**APP_VERSION**  This is the only value read from env, If not present, default to _"unspecified"_
+**APP_VERSION**  This is the only value read from env, If not present, defaults to _"unspecified"_
 
 > Each response contains the following data:
 
